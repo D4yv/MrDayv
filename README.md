@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @MrDayv!
-- 👀 I’m interested in Bot Development.
-- 🌱 I’m currently learning JavaScript.
+- 🎮 Interested in Discord.
+     ╰ Application Developer on Discord.
+- 💻 Currently learning JS.
