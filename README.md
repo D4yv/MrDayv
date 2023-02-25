@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrDayv!
+- 👋 Hi, I’m @D4yv!
 - 🎮 Interested in Discord.
 -    ╰ Application Developer on Discord.
-- 💻 Currently learning JS.
+- 💻 Currently learning JavaScript and MongoDB.
