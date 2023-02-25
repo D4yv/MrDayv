@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @D4yv!
-- 🎮 Interested in Discord.
+- 🎮 Discord enthusiast.
 -    ╰ Application Developer on Discord.
 - 💻 Currently learning JavaScript and MongoDB.
