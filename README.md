@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @oDayv;
+- 👋 Hi, I’m **Dayv**;
 - 🤖 Discord Bot Developer;
 - 🟨 JavaScript;
